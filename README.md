@@ -1,3 +1,4 @@
+![image](https://github.com/chenrongke/Nokun/blob/master/180.png)
 # Nokun
 
 Nokun is a simplified but efficient way to jumpstart your Japanese learning experience.
