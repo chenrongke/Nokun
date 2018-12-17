@@ -1,3 +1,5 @@
+# privacy policies
+
 Nokun respects and protects the privacy of all users who use the service. In order to provide you with more accurate and personalized services, Nokun will use and disclose your personal information in accordance with this Privacy Policy. But Nokun will treat this information with a high degree of diligence and prudence. Except as otherwise provided in this Privacy Policy, Nokun will not disclose or provide such information to third parties without your prior permission. Nokun will update this Privacy Policy from time to time. By agreeing to the Nokun Service Use Agreement, you are deemed to have agreed to the entire content of this Privacy Policy. This Privacy Policy is an integral part of the Nokun Service Use Agreement.
 
 Scope of application
