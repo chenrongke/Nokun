@@ -17,5 +17,7 @@ Our advanced speech and writing recognition technology is built specifically to 
  
  # contact us
  E-mail:waveTiry180@gmail.com
+ 
  Tel:+44 8446659028
+ 
  Thank you for your support！
