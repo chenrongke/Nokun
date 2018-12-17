@@ -19,7 +19,8 @@ Our advanced speech and writing recognition technology is built specifically to 
  ![image](https://github.com/chenrongke/Nokun/blob/master/short4.png)
  ![image](https://github.com/chenrongke/Nokun/blob/master/short5.png)
  ![image](https://github.com/chenrongke/Nokun/blob/master/short6.png)
- 
+ ![image](https://github.com/chenrongke/Nokun/blob/master/short7.png)
+ ![image](https://github.com/chenrongke/Nokun/blob/master/short8.png)
  
  # contact us
  E-mail:waveTiry180@gmail.com
