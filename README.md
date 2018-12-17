@@ -1,5 +1,5 @@
 # Privacy Policy of Nokun
-# Privacy Policy
+
 Effective date: December 17, 2018
 Nokun ("us", "we", or "our") operates the Nokun mobile application (hereinafter referred to as the "Service").
 This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for Nokun is based on the Privacy Policy Template from Privacy Policies.
