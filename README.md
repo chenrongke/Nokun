@@ -13,7 +13,12 @@ Our advanced speech and writing recognition technology is built specifically to 
  Nokun emphasizes building a strong foundation for its users, making the transition to more advanced topics seamless when introduced in later versions.
  
  # Screenshot
- ![image]()
+ ![image](https://github.com/chenrongke/Nokun/blob/master/short1.png)
+ ![image](https://github.com/chenrongke/Nokun/blob/master/short2.png)
+ ![image](https://github.com/chenrongke/Nokun/blob/master/short3.png)
+ ![image](https://github.com/chenrongke/Nokun/blob/master/short4.png)
+ ![image](https://github.com/chenrongke/Nokun/blob/master/short5.png)
+ ![image](https://github.com/chenrongke/Nokun/blob/master/short6.png)
  
  
  # contact us
